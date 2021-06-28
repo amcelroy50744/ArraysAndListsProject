@@ -1,0 +1,13 @@
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.exe
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.deps.json
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.runtimeconfig.json
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.runtimeconfig.dev.json
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.dll
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\bin\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.pdb
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.csproj.AssemblyReference.cache
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.AssemblyInfoInputs.cache
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.AssemblyInfo.cs
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.dll
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.pdb
+C:\Users\amcel\repos\CollectionsMasterApp\CollectionsMasterConsoleUI\obj\Debug\netcoreapp3.1\CollectionsMasterConsoleUI.genruntimeconfig.cache
